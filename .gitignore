@@ -1,0 +1,8 @@
+# Logs and databases #
+######################
+*.log
+*.pyc
+# API Keys #
+######################
+config.py
+api_keys.py
